@@ -1,0 +1,13 @@
+.topic-button{
+    display:block;
+    background-color: red;
+}
+.topic-hide-display{
+    display: none;    
+}
+
+.topic-show-display{
+    display: block;
+    border: solid black;
+    padding: 10px;
+}
